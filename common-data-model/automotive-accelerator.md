@@ -97,7 +97,7 @@ The opportunity form shows key details, provides deep insights based Dynamics 36
 ![Opportunity form](media/auto-opportunity.png)
 
 ### Vehicle inventory dashboard
-Example of Power BI dashboards embedded within Dynamics 365 in the Automotive Accelerator sample application. With the example vehicle inventiry dashboard, the inventory manager can quickly gain insights into total inventory/assets cost, number of available units, aged inventory value percentage  by model year, list price by model year or drill down into inventory breakdown by month received.
+Example of Power BI dashboards embedded within Dynamics 365 in the Automotive Accelerator sample application. With the example vehicle inventory dashboard, the inventory manager can quickly gain insights into total inventory/assets cost, number of available units, aged inventory value percentage  by model year, list price by model year or drill down into inventory breakdown by month received.
 
 ![Vehicle inventory dashboard](media/auto-vehicleInventory.png)
 
